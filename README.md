@@ -1,4 +1,4 @@
-# anti-cyclic
+# import-cycle-not-allowed-go-examples
 
 One example based on suggestions from https://groups.google.com/forum/#!topic/golang-nuts/Lj4RD3SLg6M
 
